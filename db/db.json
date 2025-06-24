@@ -1,0 +1,24 @@
+{
+  "c28455b0-9b13-4a53-943e-c56f0c64f447": {
+    "username": "Marat",
+    "hashed_password": "$2b$04$h1yTUl3ULkDVmyzWhUDpmeBDtcFoDVEuBPInf4CqzuhMuZY.SzKn2",
+    "roles": [
+      "admin"
+    ]
+  },
+  "c18f933b-1f30-460e-afd3-30ab45fa582b": {
+    "username": "Regina",
+    "hashed_password": "$2b$04$rCeV/eZJKkyzi3vFjQZesuY9ZcQGbufKVc0xbmi3AhcIiJchHE.ni",
+    "roles": [
+      "user",
+      "guest"
+    ]
+  },
+  "b253d6f2-6f25-4af7-b33f-8a50af603190": {
+    "roles": [
+      "guest"
+    ],
+    "username": "Ruslan",
+    "hashed_password": "$2b$04$358ThY8d4/OTXNyWmVbbRuvnpRmbDOMaptvMYDdtceDTR3dMQTJsi"
+  }
+}
