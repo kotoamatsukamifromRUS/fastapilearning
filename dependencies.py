@@ -42,6 +42,7 @@ request_ctx_var: ContextVar[Request | None] = ContextVar(
 
 
 def get_rate_limit_by_role() -> str:
+    """Получение лимита количества запросов по роли"""
     try:
         request = request_ctx_var.get()
         assert request
